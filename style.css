@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 10pt;
+}
+
+#container {
+    background:#CCC;
+    padding: 10px 5px 10px 5px;
+    width: 900px;
+}
+
+legend {
+	font-weight:bold;
+	font-size:34px;
+	color:#1443AF;
+}
+
+tabletext {
+	font:"Times New Roman", Times, serif;
+	font-size:26px;
+	color:#FFFFFF;
+}
+
+tabletext1 {
+	font:"Times New Roman", Times, serif;
+	font-size:15px;
+	color:#FFFFFF;
+}
